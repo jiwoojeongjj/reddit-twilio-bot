@@ -16,6 +16,6 @@ The user is then notified of these new posts by text message.
 
 1. Clone the repository
 2. Create a virtual environment
-3. In the terminal, run "pip install -r requirements.txt"
-4. Edit main.py by entering your credentials for the APIs
-5. In the terminal, run "python3 main.py"
+3. In the terminal, run `pip install -r requirements.txt`
+4. Edit `main.py` by entering your credentials for the APIs
+5. In the terminal, run `python3 main.py`
